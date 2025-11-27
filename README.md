@@ -9,4 +9,4 @@ Create a Python trivia app
 -use object-oriented programming to manage questions
 -can add trivia/questions locally or in the API
 -Utizie GITHUB and Git functionalities
--proper documentation in the REAMME.md
+-proper documentation in the READMe.md
