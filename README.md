@@ -1,21 +1,19 @@
-<<<<<<< HEAD
-### Team ACCQT: App for Trivia Generation
+### Team ACCQT: Trivia Generation Application
 
- ##### GOALS
- Trivia Generator App as a Team Activity
+##### OBJECTIVES
+Collaborative Effort to Create a Trivia Generation Application
 
- Make a trivia app in Python that:
- • Shows local trivia questions and answers
- • Provides trivia questions to other teams via the Flask API and ngrok
- • Utilize object-oriented programming to handle inquiries
- • Trivia and questions can be added locally or using the API.
- • Git and Utlizie Github features
- • Appropriate READMe.md Documentation
+Develop a trivia application in Python that:
+• Displays local trivia questions and their answers
+• Offers trivia questions to other teams through a Flask API and ngrok
+• Employs object-oriented programming to manage inquiries
+• Allows trivia and questions to be added either locally or through the API
+• Implements Git and makes use of GitHub features
+• Contains suitable documentation in the README.md file
 
-
- ### The Trivia Generator App
- ##### Overview
- This application uses object-oriented design to create and present trivia questions.  In addition to running locally in the console, it may provide random trivia using a Flask API that can be made public online via ngrok so that other teams can use it.
+### The Trivia Generator Application
+##### Summary
+This application employs object-oriented design to generate and display trivia questions. Besides functioning locally within the console, it can deliver random trivia through a Flask API, which can be made publicly accessible online using ngrok for other teams to utilize.
 
 ##### Procedure
  Initially, we used *random* *module* to develop a program.
@@ -28,5 +26,5 @@
   
 ##### Instructions for Installation and Usage
 Install our application and use Vscode to run it.
-Run **Api.py / API File** and **ngrok http 500** on separate terminals after opening a terminal.
+Run **Api.py / API File** and **https://carapaced-deidre-saleable.ngrok-free.dev/trivia** on separate terminals after opening a terminal.
 
